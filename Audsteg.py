@@ -12,7 +12,7 @@ W = '\033[0m'
 
 
 """
-This program has been created by Nitya,Mahendra,Shoab,Anand,Kushagra and Syam
+This program has been created by Mahendra Kumar
 """
 def clean():
     if(nam == 'posix'):
